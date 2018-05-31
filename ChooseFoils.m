@@ -2,7 +2,7 @@
 % in sim_dist input the DI values for the foils (distnace from target)
 % data will be saved in 'objects' variable.
 %
-% (c) Darya Frank, May 2018
+% (c) Darya Frank & Oliver Gray, May 2018
 %% setup
 tic
 filename = 'Final_Postscaling_Matrices.xls';
